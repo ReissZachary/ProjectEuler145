@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversableNumber145", "ReversableNumber145\ReversableNumber145.csproj", "{FCC80FE6-4255-45D3-BBA6-464E3650AC38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversableNumbers145.Tests", "ReversableNumbers145.Tests\ReversableNumbers145.Tests.csproj", "{840A577B-68EF-4FB8-9E80-830BB36C5FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCC80FE6-4255-45D3-BBA6-464E3650AC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC80FE6-4255-45D3-BBA6-464E3650AC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC80FE6-4255-45D3-BBA6-464E3650AC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC80FE6-4255-45D3-BBA6-464E3650AC38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{840A577B-68EF-4FB8-9E80-830BB36C5FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840A577B-68EF-4FB8-9E80-830BB36C5FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840A577B-68EF-4FB8-9E80-830BB36C5FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840A577B-68EF-4FB8-9E80-830BB36C5FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE5419D8-F0CF-40E2-BB09-90C87A0B5197}
+	EndGlobalSection
+EndGlobal
